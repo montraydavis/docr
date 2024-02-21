@@ -1,0 +1,22 @@
+{
+   "version": "2.0.0",
+   "tasks": [
+      {
+         "label": "Build::CodeDocr",
+         "type": "shell",
+         "command": "dotnet build",
+         "args": [
+            "${workspaceFolder}/CodeDocr/CodeDocr.csproj"
+         ],
+         "group": {
+            "kind": "build",
+            "isDefault": true
+         },
+         "presentation": {
+            "reveal": "always",
+            "panel": "shared",
+            "clear": true
+         }
+      }
+   ]
+}

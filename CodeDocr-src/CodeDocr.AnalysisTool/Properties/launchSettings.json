@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeDocr.AnalysisTool": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\montr\\OneDrive\\Documents\\CodeDocr\\Examples\\CodeDocrSemantics.sln\""
+    }
+  }
+}

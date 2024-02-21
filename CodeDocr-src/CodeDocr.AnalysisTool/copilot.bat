@@ -1,0 +1,1 @@
+﻿run "C:\Program Files\GitHub CLI\gh.exe" copilot explain "$1"
